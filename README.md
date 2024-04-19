@@ -16,7 +16,7 @@ touch .env
 ```
 env'nin içine aşağıdaki kodları yazsın
 ```bash
-WP_URL=mulken.42.fr
+WP_URL=myayla.42.fr
 WP_TITLE=wordpress
 
 WP_ADMIN_LOGIN=superuser
