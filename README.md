@@ -2,9 +2,13 @@
 42 Ecole inception project
 # Yardımcı kaynaklar
 https://docs.docker.com/config/daemon/
+
 https://medium.com/@iremsalgar/docker-42-c649c4e2e1ca
+
 https://miro.com/app/board/uXjVNkVXrbM=/
+
 https://www.veribilimiokulu.com/docker-sik-kullanilan-komutlar-1/
+
 https://github.com/burak-yldrm/Inception
 
 ### Kurulum
